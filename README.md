@@ -55,7 +55,7 @@ To make it simple, create conf.json file in root directory
 ```
 For more details refer to:
 ([*jsdoc page - configuration*](http://usejsdoc.org/about-configuring-jsdoc.html#incorporating-command-line-options-into-the-configuration-file))
-([*tui-jsdoc-template*](https://github.com/nhnent/tui.jsdoc-template)
+([*tui-jsdoc-template*](https://github.com/nhnent/tui.jsdoc-template))
 
 
 ## Creating the docs:
@@ -66,6 +66,10 @@ Execute jsdoc from commmand-line
 jsdoc -c /path/to/conf.json fileToBeDocumented.js
 ```
 In opt folder you will find the generated docs.
+
+## For more information on how to style your code
+
+([* jsdoc style-guide *](https://github.com/shri/JSDoc-Style-Guide))
 
 ## License
 
