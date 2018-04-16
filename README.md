@@ -69,7 +69,7 @@ In opt folder you will find the generated docs.
 
 ## For more information on how to style your code
 
-([* jsdoc style-guide *](https://github.com/shri/JSDoc-Style-Guide))
+[jsdoc style-guide](https://github.com/shri/JSDoc-Style-Guide)
 
 ## License
 
